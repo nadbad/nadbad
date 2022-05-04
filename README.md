@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | React | Redux | Python
+- 💻 &nbsp; HTML | CSS | SCSS | JavaScript | React | Redux | Python
 - 🛢 &nbsp; MySQL | Xampp
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 - 🖥 &nbsp; Figma | Adobe Photoshop
