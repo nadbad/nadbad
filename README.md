@@ -11,11 +11,11 @@
 - 🌱 &nbsp; Game Development Enthusiast.
 - ✍️ &nbsp; I like watching anime in my spare time (P.S My favourite is One Piece).
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Current Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | SCSS | JavaScript | React | Redux | Python
+- 💻 &nbsp; React | Redux | Node
 - 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; PyCharm | Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Figma | Adobe Photoshop
 
 <br>
