@@ -13,8 +13,8 @@
 
 <h3>🛠 Current Tech Stack</h3>
 
-- 💻 &nbsp; React | Redux | Node
-- 🛢 &nbsp; MySQL | Xampp
+- 💻 &nbsp; React | Redux | NestJs
+- 🛢 &nbsp; PostgreSql | Xampp
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Figma | Adobe Photoshop
 
