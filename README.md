@@ -4,8 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently learning Back End & App Development .
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 &nbsp; Currently learning Back End & App Development.
 - 🎓 &nbsp; Computer Science Student.
 - 💼 &nbsp; Front End Developer.
 - 🌱 &nbsp; Game Development Enthusiast.
