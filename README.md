@@ -12,7 +12,7 @@
 
 <h3>🛠 Current Tech Stack</h3>
 
-- 💻 &nbsp; React | Redux | NestJs
+- 💻 &nbsp; ReactJs | Redux | NextJs | NestJs
 - 🛢 &nbsp; PostgreSql
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Figma | Adobe Photoshop
