@@ -1,5 +1,5 @@
         
-<h2> Hey there! I'm Nadeem 👋
+<h2> Hey there! I'm Nadeem 👋 </h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
