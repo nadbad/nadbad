@@ -4,9 +4,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently learning Back End & App Development.
+- 🔭 &nbsp; Currently learning App Development.
 - 🎓 &nbsp; Computer Science Student.
-- 💼 &nbsp; Front End Developer.
+- 💼 &nbsp; Front End Developer with Back End Developer experience.
 - 🌱 &nbsp; Game Development Enthusiast.
 - ✍️ &nbsp; I like watching anime in my spare time (P.S My favourite is One Piece).
 
