@@ -18,12 +18,6 @@
 - 🧪 &nbsp; Playwright | Cypress | Jest  
 - 📚 &nbsp; Zod | i18n | Figma | Jira | Bedrock WordPress (custom themes/plugins)
 
-<h3> 📌 Featured Projects </h3>
-
-- 🧾 **AQI Dashboard** – Real-time air quality dashboard (Next.js + React Query)
-- 🍽️ **POS System** – Café POS & inventory tracker with real-time ordering (Next.js frontend, Laravel backend)
-- 🛒 **Toobaco eCommerce** – Fully custom Bedrock WP + plugin-heavy storefront
-
 <h3> 🤝 Let's Connect! </h3>
 
 <p align="left">
