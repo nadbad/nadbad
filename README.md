@@ -1,27 +1,24 @@
-<h2> Hey there! I'm Nadeem 👋 </h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="400"/>
+<h2>Hey, I’m Nadeem 👋</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<p><strong>Tech Lead &amp; Full-Stack Engineer</strong> · Bari, Italy · <a href="https://nadbad.com">nadbad.com</a></p>
 
-- 💼 I'm a full-stack-leaning **frontend engineer** with 5+ years of experience in fast-paced startups.
-- 🚀 I lead and contribute to systems that are scalable, well-documented, and built with performance in mind.
-- 🧠 I’m currently deepening my skills in **architecture design, system flows, and leadership**.
-- 💬 I enjoy mentoring, writing docs, and simplifying complex problems.
-- 🌱 Learning Italian 🇮🇹, open-source best practices, and refining system design skills.
-- 💪 Gym rat, anime fan (One Piece forever 🏴‍☠️), and part-time lizard whisperer 🦎 (true story: I once volunteered at a reptile garden).
+I like figuring out why a workflow feels harder than it should, then building software that makes it clearer. I work across the interface, APIs, data and deployment, and I still enjoy the small details that save a team time every day.
 
-<h3> 🔧 My Current Tech Stack </h3>
+- I lead the web team at Lamah, set technical direction at RQM, and co-founded Garama.
+- I’m building Sufra for restaurant teams and have worked on dashboards, reporting and monitoring with Maqyas.
+- Makani, a digital addressing platform I worked on, has been used by more than 162,000 citizens and government services in Libya.
+- I’m based in Bari and preparing to start a master’s at UniBA. I’m open to flexible full-time or part-time work around classes.
+- Arabic and English are fluent for me; Italian and Afrikaans are intermediate.
+- Away from the keyboard: gym, One Piece forever, and occasional lizard whispering (I once volunteered at a reptile garden 🦎).
 
-- 💻 &nbsp; TypeScript | React | Next.js | Redux | Mantine | Tailwind  
-- ⚙️ &nbsp; Node.js | NestJS | Express | PostgreSQL | Prisma  
-- 🐳 &nbsp; Docker | PM2 | Nginx | CI/CD | GitHub Actions | CyberPanel  
-- 🧪 &nbsp; Playwright | Cypress | Jest  
-- 📚 &nbsp; Zod | i18n | Figma | Jira | Bedrock WordPress (custom themes/plugins)
+### Tools I reach for
 
-<h3> 🤝 Let's Connect! </h3>
+- **Frontend:** TypeScript, React, Next.js, React Query, Redux, Tailwind
+- **Backend & data:** Node.js, NestJS, PostgreSQL, GraphQL
+- **Delivery:** Docker, GitHub Actions, Jenkins, Nginx, PM2
+- **Quality & workflow:** Playwright, Cypress, Jest, Git, Jira, Figma
+- **CMS & automation:** WordPress Bedrock, PHP, Bash
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nadeem-alhassan" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="40"/></a>
-  <a href="mailto:nadeem.develops@gmail.com"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="40"/></a>
-  <a href="https://www.instagram.com/nadbad_/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="40"/></a>
-</p>
+### Find me
+
+[Portfolio](https://nadbad.com) · [LinkedIn](https://www.linkedin.com/in/nadeem-alhassan/) · [Email](mailto:nadeem.develops@gmail.com) · [Instagram](https://www.instagram.com/nadbad_/)
